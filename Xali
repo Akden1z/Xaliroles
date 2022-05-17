@@ -1,0 +1,7 @@
+for i=1, 90909090 do
+
+game.ReplicatedStorage.addStrength:FireServer(Workspace.Xaliroles.Weight.Handle, 1)
+
+wait(0.01)
+
+end
